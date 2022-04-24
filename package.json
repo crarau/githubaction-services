@@ -1,0 +1,23 @@
+{
+  "name": "githubaction-services",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crarau/githubaction-services.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crarau/githubaction-services/issues"
+  },
+  "homepage": "https://github.com/crarau/githubaction-services#readme",
+  "dependencies": {
+    "redis": "^4.0.6"
+  }
+}
